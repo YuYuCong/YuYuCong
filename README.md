@@ -31,4 +31,4 @@ Recent blogs
 - ...
 
 #### :watermelon: Github statistics
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=YuYuCong&show_icons=true&theme=gruvbox)
+![我的 GitHub 数据](./profile/stats.svg)
